@@ -10,7 +10,7 @@ To run this file follow the given steps:
 
 Note: The app uses pygame and tkinter libraries so if you haven't installed them:
 1. open command prompt
-2. run the following commands: \n
-    i. pip install pygame \n
-    ii. pip install tk
+2. run the following commands:
+    (i) pip install pygame 
+    (ii) pip install tk
     
